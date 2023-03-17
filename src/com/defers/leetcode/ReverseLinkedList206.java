@@ -40,7 +40,6 @@ public class ReverseLinkedList206 {
         }
 
         return prev;
-
     }
 
     static class ListNode {
